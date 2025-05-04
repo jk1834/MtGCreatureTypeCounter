@@ -14,12 +14,15 @@ A simple desktop application for analyzing creature types in Magic: The Gatherin
 
 ---
 
-## 🚀 Getting Started
+## ‼️ Getting Started
 
 - 📥 Download the latest release
-- 📡 Check the "Download latest Scryfall data" box
-- 📄 Decklist Format should be in the following, separated by newlines:
+- 📄 Decklist should be in the following format, separated by newlines:
   - 4 Llanowar Elves
   - 2 Elvish Mystic
   - 1 Nissa, Vastwood Seer
+- 📖 Upload decklist to `decklist/` folder
+- 🚀 Launch MtG CTC
+- 📡 Check the "Download latest Scryfall data" box
+- 📝 Choose which deck you want analyzed
 - 📊 Click "Run Analysis"
