@@ -2,8 +2,6 @@
 
 A simple desktop application for analyzing creature types in Magic: The Gathering decklists. Built with Python and Tkinter, this tool parses deck files, counts creature subtypes, and presents a sorted list by quantity.
 
-<!--![screenshot](docs/screenshot.png) <!-- Optional: Add a screenshot if you have one -->
-
 ---
 
 ## ✨ Features
@@ -20,8 +18,8 @@ A simple desktop application for analyzing creature types in Magic: The Gatherin
 
 - 📥 Download the latest release
 - 📡 Check the "Download latest Scryfall data" box
-- 📄 Decklist Format should be in the following:
-  4 Llanowar Elves
-  2 Elvish Mystic
-  1 Nissa, Vastwood Seer
+- 📄 Decklist Format should be in the following, separated by newlines:
+  - 4 Llanowar Elves
+  - 2 Elvish Mystic
+  - 1 Nissa, Vastwood Seer
 - 📊 Click "Run Analysis"
