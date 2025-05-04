@@ -2,6 +2,7 @@
 
 A simple desktop application for analyzing creature types in Magic: The Gathering decklists. Built with Python and Tkinter, this tool parses deck files, counts creature subtypes, and presents a sorted list by quantity.
 
+![Alt text](https://github.com/jk1834/MtGCreatureTypeCounter/blob/main/mtgctc_1.PNG?raw=true)
 ---
 
 ## ✨ Features
