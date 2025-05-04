@@ -1,0 +1,69 @@
+1 Alley Evasion
+1 Apostle's Blessing
+1 Arcane Signet
+1 Austere Command
+1 Blacksmith's Skill
+1 Blasphemous Act
+1 Boon of Safety
+1 Boros Signet
+1 Brute Force
+1 Cheeky House-Mouse
+1 Command Tower
+1 Commander's Sphere
+1 Defiant Strike
+1 Djeru's Resolve
+1 Dreadmaw's Ire
+1 Electrostatic Field
+1 Ephemerate
+1 Erebor Flamesmith
+1 Expedite
+1 Explosive Entry
+1 Fall of the Hammer
+1 Feat of Resistance
+1 Feather, the Redeemed
+1 Fervent Strike
+1 Fiery Inscription
+1 Fight as One
+1 Fire Diamond
+1 Firebrand Archer
+1 Go for Blood
+1 Gods Willing
+1 Guttersnipe
+1 Homestead Courage
+1 Kediss, Emberclaw Familiar
+1 Light of Hope
+1 Light the Way
+1 Loran's Escape
+1 Marble Diamond
+13 Mountain
+1 Myth Realized
+1 Path to Exile
+22 Plains
+1 Psychotic Fury
+1 Raze the Effigy
+1 Regent's Authority
+1 Renegade Tactics
+1 Rile
+1 Rodeo Pyromancers
+1 Runaway Steam-Kin
+1 Rush of Adrenaline
+1 Samut's Sprint
+1 Shelter
+1 Sheltering Light
+1 Show of Confidence
+1 Soul Parry
+1 Soul's Fire
+1 Stave Off
+1 Storm-Kiln Artist
+1 Swift Justice
+1 Swords to Plowshares
+1 Take Up the Shield
+1 Talisman of Conviction
+1 Temur Battle Rage
+1 Thermo-Alchemist
+1 Wings of the Cosmos
+1 You're Ambushed on the Road
+1 Young Pyromancer
+1 Zada, Hedron Grinder
+
+

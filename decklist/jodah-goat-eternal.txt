@@ -1,0 +1,93 @@
+1 Alloy Myr
+1 Animatou's Augury
+1 Apex Devastator
+1 Arcane Signet
+1 Archetype of Endurance
+1 Artisan of Kozilek
+1 Avacyn, Angel of Hope
+1 Azorius Guildgate
+1 Bootleggers' Stash
+1 Boros Guildgate
+1 Bringer of the Blue Dawn
+1 Chromatic Lantern
+1 Chromatic Orrery
+1 Circuitous Route
+1 Clone Legion
+1 Command Tower
+1 Commander's Sphere
+1 Conflux
+1 Consecrated Sphinx
+1 Cultivate
+1 Dimir Guildgate
+1 Dockside Extortionist
+1 Dragonskull Summit
+1 Dread Cacodemon
+1 Eerie Ultimatum
+1 Elvish Piper
+1 Etali, Primal Storm
+1 Exotic Orchard
+1 Explosive Vegetation
+1 Farseek
+1 Fellwar Stone
+1 Fevered Suspicion
+1 Fierce Empath
+1 Fist of Suns
+4 Forest
+1 Fractured Identity
+1 Gisela, Blade of Goldnight
+1 Golgari Guildgate
+1 Gruul Guildgate
+1 Hallowed Fountain
+3 Island
+1 It That Betrays
+1 Izzet Guildgate
+1 Jodah, Archmage Eternal
+1 Kodama's Reach
+1 Leyline Immersion
+1 Lightning Greaves
+1 Lotus Cobra
+1 Maelstrom Wanderer
+1 Maze's End
+2 Mountain
+1 Myojin of Seeing Winds
+1 Nature's Lore
+1 Nicol Bolas, Planeswalker
+1 Nyxbloom Ancient
+1 Old Gnawbone
+1 Omniscience
+1 Orzhov Guildgate
+1 Overgrown Tomb
+1 Phage the Untouchable
+3 Plains
+1 Praetor's Counsel
+1 Primeval Spawn
+1 Progenitus
+1 Rakdos Guildgate
+1 Ramos, Dragon Engine
+1 Rampant Growth
+1 Reshape the Earth
+1 Rise of the Dark Realms
+1 Ruinous Ultimatum
+1 Sacred Foundry
+1 Sakura-Tribe Elder
+1 Selesnya Guildgate
+1 Simic Guildgate
+1 Sire of Stagnation
+1 Smothering Tithe
+1 Spelunking
+1 Spire Garden
+1 Steam Vents
+1 Sunbird's Invocation
+2 Swamp
+1 Temple Garden
+1 Temple of Epiphany
+1 Temple of Malady
+1 Temple of Mystery
+1 Two-Headed Hellkite
+1 Unexpected Results
+1 Urabrask the Hidden
+1 Woodland Cemetery
+1 Zacama, Primal Calamity
+1 Zendikar Resurgent
+
+
